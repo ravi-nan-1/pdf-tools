@@ -13,3 +13,4 @@ pdfminer.six
 pygments
 pdfkit
 python-magic
+python-multipart   <-- REQUIRED
