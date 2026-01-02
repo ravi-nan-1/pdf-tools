@@ -11,4 +11,5 @@ jobs:
       - name: Ping URLs
         run: |
           curl https://pdf-tools-dljh.onrender.com/
+          curl https://algotrading-ufvn.onrender.com/
           
